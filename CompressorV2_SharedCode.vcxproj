@@ -2413,7 +2413,6 @@
       <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_gui_extra.cpp" />
-    <ClCompile Include="CompressorPlugin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\PluginProcessor.h" />
@@ -3364,7 +3363,6 @@
     <ClInclude Include="..\..\..\..\..\..\Documenten\JUCE\modules\juce_gui_extra\juce_gui_extra.h" />
     <ClInclude Include="..\..\JuceLibraryCode\JuceHeader.h" />
     <ClInclude Include="..\..\JuceLibraryCode\JucePluginDefines.h" />
-    <ClInclude Include="CompressorPlugin.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\..\Documenten\JUCE\modules\juce_audio_devices\native\oboe\CMakeLists.txt" />

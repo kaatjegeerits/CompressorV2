@@ -2913,9 +2913,6 @@
     <ClCompile Include="..\..\JuceLibraryCode\include_juce_gui_extra.cpp">
       <Filter>JUCE Library Code</Filter>
     </ClCompile>
-    <ClCompile Include="CompressorPlugin.cpp">
-      <Filter>CompressorV2\Source</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\PluginProcessor.h">
@@ -5761,9 +5758,6 @@
     </ClInclude>
     <ClInclude Include="..\..\JuceLibraryCode\JucePluginDefines.h">
       <Filter>JUCE Library Code</Filter>
-    </ClInclude>
-    <ClInclude Include="CompressorPlugin.h">
-      <Filter>CompressorV2\Source</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
