@@ -5759,7 +5759,10 @@
     <ClInclude Include="..\..\JuceLibraryCode\JucePluginDefines.h">
       <Filter>JUCE Library Code</Filter>
     </ClInclude>
-    <ClInclude Include="Levelmeter.h">
+    <ClInclude Include="LevelMeter.h">
+      <Filter>CompressorV2\Source</Filter>
+    </ClInclude>
+    <ClInclude Include="SliderButton.h">
       <Filter>CompressorV2\Source</Filter>
     </ClInclude>
   </ItemGroup>
