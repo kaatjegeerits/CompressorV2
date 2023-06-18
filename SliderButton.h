@@ -8,7 +8,7 @@ namespace Gui
 	public:
 		void paint(juce::Graphics& g) override
 		{
-			g.setColour(juce::Colours::red);
+			g.setColour(juce::Colours::black);
 			g.fillRect(getLocalBounds());
 		}
 	};

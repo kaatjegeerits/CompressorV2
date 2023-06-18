@@ -12,7 +12,7 @@ namespace Gui
 			g.setColour(juce::Colours::white.withBrightness(0.8f));
 			g.fillRoundedRectangle(bounds, 5.f);
 
-			g.setColour(juce::Colours::yellow);
+			g.setColour(juce::Colours::seagreen);
 			const auto scaledY = juce::jmap(level, -60.f, 12.f, 0.f, (float)getHeight());
 			g.fillRoundedRectangle(bounds.removeFromBottom(scaledY), 5.f);
 		}
